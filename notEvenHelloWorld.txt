@@ -1,2 +1,3 @@
 HelloGit!
 Ok!
+Ja kloonissa muutos!
